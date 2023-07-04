@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jeanh
+ *
+ */
+module Exception {
+}
